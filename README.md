@@ -13,16 +13,16 @@
 
 ## Technologies Used
 
-- **C++**: The core programming language used for implementing the application logic.
+- **C++**: The main programming language used for this project.
 - **SFML**: A multimedia library used to create the graphical user interface (GUI).
 - **nlohmann/json**: A C++ library for parsing and handling JSON data, used to manage artist information.
 - **JSON**: Used for storing artist data, including genres, familiarity scores, and other relevant details.
 
 ## How It Works
 
-1. **Data Loading**: The application reads artist data from a JSON file (`music.json`). Each artist entry includes information such as the artist's name, genre, and familiarity score.
+1. **Loading the Dataset**: The application reads artist data from a JSON file (`music.json`). Each artist entry includes information such as the artist's name, genre, and familiarity score.
 
-2. **Graph Construction**: 
+2. **Graph Implementation**: 
    - **Nodes**: Each artist is added as a node in the graph.
    - **Edges**: Connections between artists are established based on shared genres or other criteria.
 
