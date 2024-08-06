@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/sfml-src" vcs="Git" />
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9919531d2cebf2bc43bcf7562be2d7434bc741d5564a5d36d2faa26705c8029
+size 252

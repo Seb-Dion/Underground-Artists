@@ -1,15 +1,3 @@
-set(CMAKE_HOST_SYSTEM "Darwin-23.3.0")
-set(CMAKE_HOST_SYSTEM_NAME "Darwin")
-set(CMAKE_HOST_SYSTEM_VERSION "23.3.0")
-set(CMAKE_HOST_SYSTEM_PROCESSOR "arm64")
-
-
-
-set(CMAKE_SYSTEM "Darwin-23.3.0")
-set(CMAKE_SYSTEM_NAME "Darwin")
-set(CMAKE_SYSTEM_VERSION "23.3.0")
-set(CMAKE_SYSTEM_PROCESSOR "arm64")
-
-set(CMAKE_CROSSCOMPILING "FALSE")
-
-set(CMAKE_SYSTEM_LOADED 1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e20da63eba2b40f17125938f58cf7afcaa99c0118bf2a203fcd280e054ea004
+size 360

@@ -1,14 +1,3 @@
-{
-	"backtraceGraph" : 
-	{
-		"commands" : [],
-		"files" : [],
-		"nodes" : []
-	},
-	"installers" : [],
-	"paths" : 
-	{
-		"build" : "_deps/sfml-build/src/SFML",
-		"source" : "cmake-build-debug/_deps/sfml-src/src/SFML"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33601f0068e95e9329b3b7e97c909e376bf461e2ad32692657a90f8e154ca85c
+size 218
