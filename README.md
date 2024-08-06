@@ -20,7 +20,7 @@
 
 ## How It Works
 
-1. **Loading the Dataset**: The application reads artist data from a JSON file (`music.json`). Each artist entry includes information such as the artist's name, genre, and familiarity score.
+1. **Loading the Dataset**: The application reads artist data from a JSON file (`updated_music.json`). Each artist entry includes information such as the artist's name, genre, and familiarity score.
 
 2. **Graph Implementation**: 
    - **Nodes**: Each artist is added as a node in the graph.
